@@ -1,2 +1,2 @@
-# College-Projects---UFMS
+# UFMS-College-Projects-
 Projects developed during college
