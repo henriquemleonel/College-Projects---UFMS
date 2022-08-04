@@ -1,0 +1,3 @@
+[submodule "Cartografia"]
+	path = Cartografia
+	url = git@github.com:henriquemleonel/Cartografia.git
