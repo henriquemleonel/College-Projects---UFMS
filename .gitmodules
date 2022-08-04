@@ -1,0 +1,12 @@
+[submodule "Talkey_Chat"]
+	path = Talkey_Chat
+	url = git@github.com:henriquemleonel/talkey-vue.git
+[submodule "SQL_Scripts"]
+	path = SQL_Scripts
+	url = git@github.com:henriquemleonel/Scripts_SQL.git
+[submodule "Eads_APOOII_20191"]
+	path = Eads_APOOII_20191
+	url = git@github.com:henriquemleonel/Eads_APOOII_20191.git
+[submodule "Banking_System"]
+	path = Banking_System
+	url = git@github.com:henriquemleonel/Banking_System.git
